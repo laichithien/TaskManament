@@ -1,0 +1,5 @@
+.env
+migrations/versions/
+migrations/env.pyc
+migrations/env.pyo
+migrations/env.py~
